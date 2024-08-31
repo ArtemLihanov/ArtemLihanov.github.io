@@ -1,5 +1,6 @@
 body {
   font-family: "Helvetica";
+  max-width: 100%;
   background-color: #f6f8fa;
   color: #24292f;
   display: flex;
@@ -125,6 +126,3 @@ footer {
 .container {max-width: 100%; padding: 0 15px;
 }
 
-.h4 class="header__title" {
-margin: 0 0 15px 200px
-}
